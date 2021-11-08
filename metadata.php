@@ -13,7 +13,7 @@ $sMetadataVersion = '2.1';
 /**
  * Category extends for media files, urls and documents
  */
-$aModule = array(
+$aModule = [
     'id' => 'oe_category_extend',
     'title' => [
         'de' => 'Category attachment and media',
@@ -40,4 +40,4 @@ $aModule = array(
             'position' => '2'
         ],
     ]
-);
+];
